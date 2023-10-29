@@ -8,8 +8,9 @@ Talk To ChatGPT
 5. Customize your Chatbot1.txt
 6. Run talk.py
 
+ElevenLabs:  https://elevenlabs.io <br />
 
-ElevenLabs: https://elevenlabs.io
-ChatGPT: https://openai.com/blog/chatgpt
-YouTube Tutorial: https://youtu.be/bZhgoYrHC3w
+ChatGPT:  https://openai.com/blog/chatgpt <br />
+
+YouTube Tutorial:  https://youtu.be/bZhgoYrHC3w
 
